@@ -1,2 +1,2 @@
 # northwest-poker from the northwest
-#gpg sign
+#gpg sign for reals
